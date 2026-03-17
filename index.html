@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hayden's Games</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bungee&family=Nunito:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg-glow bg-glow-a" aria-hidden="true"></div>
+    <div class="bg-glow bg-glow-b" aria-hidden="true"></div>
+
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">Game Portal</p>
+        <h1>Hayden's Games</h1>
+        <p class="subhead">Pick a game tile to jump in and play.</p>
+      </header>
+
+      <section>
+        <ul id="games-grid" class="games-grid" aria-label="Games"></ul>
+      </section>
+    </main>
+
+    <template id="game-tile-template">
+      <li>
+        <a class="game-tile" href="#">
+          <span class="game-icon" aria-hidden="true"></span>
+          <span class="game-name"></span>
+        </a>
+      </li>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>

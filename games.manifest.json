@@ -1,0 +1,41 @@
+{
+  "title": "Hayden's Games",
+  "games": [
+    {
+      "slug": "carson-the-cavapoo",
+      "name": "Carson the Cavapoo",
+      "icon": "🐶",
+      "type": "static"
+    },
+    {
+      "slug": "cat-devours-sushi",
+      "name": "Cat Devours Sushi",
+      "icon": "🍣",
+      "type": "static"
+    },
+    {
+      "slug": "farming-on-the-farm",
+      "name": "Farming on the Farm",
+      "icon": "🚜",
+      "type": "static"
+    },
+    {
+      "slug": "game-01-radish-race",
+      "name": "Radish Race",
+      "icon": "🥕",
+      "type": "vite"
+    },
+    {
+      "slug": "game-02-cinnamon-roll",
+      "name": "Cinnamon Roll",
+      "icon": "🥐",
+      "type": "vite"
+    },
+    {
+      "slug": "make-a-yummy-soup",
+      "name": "Make a Yummy Soup",
+      "icon": "🥣",
+      "type": "static"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[submodule "games/carson-the-cavapoo"]
+	path = games/carson-the-cavapoo
+	url = https://github.com/bpung/carson-the-cavapoo.git
+[submodule "games/cat-devours-sushi"]
+	path = games/cat-devours-sushi
+	url = https://github.com/bpung/cat-devours-sushi.git
+[submodule "games/farming-on-the-farm"]
+	path = games/farming-on-the-farm
+	url = https://github.com/bpung/farming-on-the-farm.git
+[submodule "games/game-01-radish-race"]
+	path = games/game-01-radish-race
+	url = https://github.com/bpung/game-01-radish-race.git
+[submodule "games/game-02-cinnamon-roll"]
+	path = games/game-02-cinnamon-roll
+	url = https://github.com/bpung/game-02-cinnamon-roll.git
+[submodule "games/make-a-yummy-soup"]
+	path = games/make-a-yummy-soup
+	url = https://github.com/bpung/make-a-yummy-soup.git
