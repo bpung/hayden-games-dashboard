@@ -4,9 +4,9 @@ This repository hosts a static portal site named **Hayden's Games** and aggregat
 
 ## Repository model
 
-- `games-dashboard` is the deployable hub site.
+- `hayden-games-dashboard` is the deployable hub site.
 - Each individual game remains an independent Git repository.
-- `games-dashboard` pins exact game revisions via submodule commits.
+- `hayden-games-dashboard` pins exact game revisions via submodule commits.
 
 ## Structure
 
