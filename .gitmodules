@@ -1,7 +1,7 @@
 [submodule "games/carson-the-cavapoo"]
 	path = games/carson-the-cavapoo
 	url = https://github.com/bpung/carson-the-cavapoo.git
-[submodule "games/cat-devours-sushi"]
+[submodule "games/cats-eating-sushi"]
 	path = games/cats-eating-sushi
 	url = https://github.com/bpung/cat-devours-sushi.git
 [submodule "games/farming-on-the-farm"]
