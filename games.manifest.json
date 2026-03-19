@@ -32,6 +32,12 @@
       "type": "vite"
     },
     {
+      "slug": "3d-chess",
+      "name": "3D Chess",
+      "icon": "♟️",
+      "type": "vite"
+    },
+    {
       "slug": "make-a-yummy-soup",
       "name": "Make a Yummy Soup",
       "icon": "🥣",

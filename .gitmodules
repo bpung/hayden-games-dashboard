@@ -19,3 +19,6 @@
 [submodule "games/suso-arcade"]
 	path = games/suso-arcade
 	url = https://github.com/bpung/suso-arcade.git
+[submodule "games/3d-chess"]
+	path = games/3d-chess
+	url = https://github.com/bpung/3d-chess.git

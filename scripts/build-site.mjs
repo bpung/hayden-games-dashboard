@@ -70,7 +70,9 @@ function ensureViteDependencies(gamePath) {
 function buildViteGame(gamePath, targetDir) {
   ensureViteDependencies(gamePath);
 
-  run('npx', ['tsc'], gamePath);
+  if (existsSync(path.join(gamePath, 'tsconfig.json'))) {
+    run('npx', ['tsc'], gamePath);
+  }
   run('npx', ['vite', 'build', '--base=./'], gamePath);
 
   const distDir = path.join(gamePath, 'dist');
