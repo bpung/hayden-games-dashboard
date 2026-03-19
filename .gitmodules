@@ -16,3 +16,6 @@
 [submodule "games/make-a-yummy-soup"]
 	path = games/make-a-yummy-soup
 	url = https://github.com/bpung/make-a-yummy-soup.git
+[submodule "games/suso-arcade"]
+	path = games/suso-arcade
+	url = https://github.com/bpung/suso-arcade.git

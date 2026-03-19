@@ -36,6 +36,12 @@
       "name": "Make a Yummy Soup",
       "icon": "🥣",
       "type": "static"
+    },
+    {
+      "slug": "suso-arcade",
+      "name": "Suso Arcade",
+      "icon": "🕹️",
+      "type": "static"
     }
   ]
 }
