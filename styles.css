@@ -51,7 +51,7 @@ body {
   position: relative;
   z-index: 1;
   margin: 0 auto;
-  width: min(1100px, 92vw);
+  width: min(1500px, 92vw);
   padding: 3rem 0 4rem;
 }
 
